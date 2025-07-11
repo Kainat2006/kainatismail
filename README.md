@@ -15,6 +15,6 @@
 ---
 
 ### 💖 Let's Connect!
-- 🌐 [LinkedIn](https://www.linkedin.com/in/kainatismail/)
-- 📧 Email: kainat.email@example.com
+- 🌐 [LinkedIn](www.linkedin.com/in/kainatismail)
+- 📧 Email: kainat.email@gmail.com
 
